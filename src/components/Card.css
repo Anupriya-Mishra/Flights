@@ -1,0 +1,131 @@
+
+.Description
+{
+  display: inline-block;
+  margin: 2% 2% 2% 2%;
+
+}
+.Font
+{
+  
+  text-align: center;
+}
+
+
+.smallFont{
+    font-size: 0.8rem;
+}
+
+
+  
+  h2
+  {
+    font-family: 'Fredoka One', cursive;
+    color: #91d18b;
+  }
+  h4
+  {
+    color: #206a5d;
+    margin-top: 5%;
+  }
+  
+  
+
+  
+  
+  
+  
+  .green
+  {
+    color: #28df99;
+  }
+  
+  
+ 
+  .imaged1
+  {
+  
+    position: relative;
+    display: inline-block;
+      width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    margin-right: 3%;
+    margin-left: 3%;
+    margin-bottom: 30px;
+  
+  }
+  .imaged1:hover
+  {
+    opacity: 0.7;
+  }
+  
+  .Description
+  {
+    display: inline-block;
+    margin: 2% 2% 2% 2%;
+  
+  }
+  
+  .rightalign{
+    margin-left: 10%;
+  }
+  
+  
+  
+  
+
+  .center
+  {
+    align-items: center;
+    text-align: center;
+  }
+  .plate
+  {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+  }
+  
+  
+  .myButton {
+      box-shadow: 0px 10px 14px -7px grey;
+      background:linear-gradient(to bottom, #45c7b1 5%, #2f718f 100%);
+      background-color:#45c7b1;
+      border-radius:8px;
+      display:inline-block;
+      cursor:pointer;
+      color:#ffffff;
+      font-family:Arial;
+      font-size:20px;
+      font-weight:bold;
+      padding:13px 32px;
+      text-decoration:none;
+      text-shadow:0px 1px 0px #2f6627;
+  }
+  .myButton:hover {
+      background:linear-gradient(to bottom, #2f718f 5%, #45c7b1 100%);
+      background-color:#2f718f;
+    color: white;
+  }
+  .myButton:active {
+      position:relative;
+      top:1px;
+  }
+  
+
+  
+ 
+  
+  .hline
+  {
+  
+      margin-bottom: 5%;
+    width: 3%;
+    border-style: dotted;
+    border-width: 10px;
+    border-top: none;
+    border-color: #9cada4;
+  }
+  
+  

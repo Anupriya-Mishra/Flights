@@ -1,0 +1,83 @@
+[
+    {
+        "id":"1",
+        "origin":"Delhi",
+        "destination": "Pune",
+        "ddate":"10/11/2021",
+        "rdate":"13/11/2021",
+        "price":11000,
+        "dtime": "1:00 PM",
+        "atime": "3:00 PM"
+    },
+    {
+        "id":"2",
+        "origin":"Pune",
+        "destination": "Delhi",
+        "ddate":"11/11/2021",
+        "rdate":"14/11/2021",
+        "price":9000,
+        "dtime": "2:00 PM",
+        "atime": "4:00 PM"
+    },
+    {
+        "id":"3",
+        "origin":"Allahabad",
+        "destination": "Banglore",
+        "ddate":"12/11/2021",
+        "rdate":"15/11/2021",
+        "price":9000,
+        "dtime": "4:00 PM",
+        "atime": "6:00 PM"
+    },
+    {
+        "id":"4",
+        "origin":"Banglore",
+        "destination": "Allahabad",
+        "ddate":"13/11/2021",
+        "rdate":"16/11/2021",
+        "price":11000,
+        "dtime": "6:00 PM",
+        "atime": "10:00 PM"
+    },
+    {
+        "id":"5",
+        "origin":"Lucknow",
+        "destination": "Hyderabad",
+        "ddate":"14/11/2021",
+        "rdate":"17/11/2021",
+        "price":7000,
+        "dtime": "1:30 PM",
+        "atime": "4:00 PM"
+    },
+    {
+        "id":"6",
+        "origin":"Hyderabad",
+        "destination": "Lucknow",
+        "ddate":"15/11/2021",
+        "rdate":"18/11/2021",
+        "price":9500,
+        "dtime": "7:00 PM",
+        "atime": "10:00 PM"
+    },
+    {
+        "id":"7",
+        "origin":"Mumbai",
+        "destination": "Delhi",
+        "ddate":"16/11/2021",
+        "rdate":"19/11/2021",
+        "price":10000,
+        "dtime": "4:00 PM",
+        "atime": "6:00 PM"
+    },
+    {
+        "id":"8",
+        "origin":"Delhi",
+        "destination": "Pune",
+        "ddate":"10/11/2021",
+        "rdate":"13/11/2021",
+        "price":6000,
+        "dtime": "1:00 PM",
+        "atime": "3:00 PM"
+    }
+    
+]
